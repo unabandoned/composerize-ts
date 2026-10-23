@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.9.7](https://github.com/unabandoned/composerize-ts/compare/composerize-ts-v0.9.6...composerize-ts-v0.9.7) (2026-10-23)
+
+
+### Bug Fixes
+
+* **deps:** update dependency ip-address to v10.7.4 ([#106](https://github.com/unabandoned/composerize-ts/issues/106)) ([0fd090e](https://github.com/unabandoned/composerize-ts/commit/0fd090e99b96db4af16bba54b22e0f6db0942047))
+
 ## [0.9.6](https://github.com/unabandoned/composerize-ts/compare/composerize-ts-v0.9.5...composerize-ts-v0.9.6) (2026-10-08)
 
 
